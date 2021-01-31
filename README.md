@@ -3,7 +3,7 @@ A first version of my Currency Converter mad from scratch, which logic was later
 My first ever experience with design. 
 
 
-![alt text](https://github.com/goldoner/Currency-Converter-JavaFX/.../pic1.jpg?raw=true)
+![alt text](https://github.com/goldoner/Currency-Converter-JavaFX/src/lib/pic1.png?raw=true)
 
 ### Installation
 
