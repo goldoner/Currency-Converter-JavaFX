@@ -2,6 +2,9 @@
 A first version of my Currency Converter mad from scratch, which logic was later used in MyCurrency project.
 My first ever experience with design. 
 
+
+![alt text](https://github.com/goldoner/Currency-Converter-JavaFX/.../pic1.jpg?raw=true)
+
 ### Installation
 
 Project requires [Java FX](https://openjfx.io) to run.
